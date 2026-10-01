@@ -1,4 +1,3 @@
-# Supply_Chain_Inventory_Analytics
 # Supply Chain & Inventory Analytics
 
 ## 📌 Project Overview
